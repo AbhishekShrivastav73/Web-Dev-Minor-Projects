@@ -1,0 +1,110 @@
+/* CSS Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Global Styles */
+body,html {
+  font-family: 'Arial', sans-serif;
+  height : 100%;
+  width: 100%;
+}
+
+/* Add your own styles below this line */
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+main button{
+    width: 10vw;
+    height: 8vh;
+    font-size: 1.5vw;
+    background: #2196F3;
+    border: none;
+    color: white;
+    font-weight: 400;
+}
+.overlay{
+    width: 100%;
+    min-height: 100vh;
+    background: #00000084;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    padding: 2vw;
+    display: none;
+    transition: all ease-in-out 1s;
+}
+.imgContainer{
+    width: 12VW;
+    height: 28vh;
+    background: red;
+    border-radius: 50%;
+}
+.imgContainer img{
+    width: 100%;
+    height: 100%;
+    object-fit: center;
+}
+.overlay form{
+    width: 100%;
+     
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2vw;
+
+}
+.formMain{
+    background: white;
+    width: 50%;
+    height: 90vh;
+}
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 0.2vw;
+    margin: 10px 0;
+}
+.formContainer label{
+    font-size: 1.5vw;
+    font-weight: 900;
+}
+.formContainer input{
+    padding: 1.1vw;
+    font-size: 1.4vw;
+}
+form button{
+    width: 100%; 
+    font-size: 2vw;
+    color: white;
+    font-weight: 800;
+    background: #4CAF50;
+}
+.remember{
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+    width: 100%;
+    margin: 1vw 0;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #dadada;
+    padding: 1vw;
+}
+#cancelBtn{
+    background: red;
+}
