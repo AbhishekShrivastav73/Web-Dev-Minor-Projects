@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/web-development-mini-projects?style=flat-square" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/yourusername/web-development-mini-projects?style=flat-square" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/yourusername/web-development-mini-projects?style=flat-square" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/yourusername/web-development-mini-projects?style=flat-square" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/AbhishekShrivastav73/Web-Dev-Minor-Projects?style=flat-square" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/AbhishekShrivastav73/Web-Dev-Minor-Projects?style=flat-square" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/AbhishekShrivastav73/Web-Dev-Minor-Projects?style=flat-square" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/AbhishekShrivastav73/Web-Dev-Minor-Projects?style=flat-square" alt="GitHub license">
 </p>
 
 # 🌟 Web Development Mini-Projects 🌟
