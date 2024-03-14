@@ -31,15 +31,8 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 ## Project List
 
-1. **Simple To-Do List**: Practice basic HTML structure and CSS styling while implementing functionality with JavaScript.
-2. **Responsive Landing Page**: Learn how to create a responsive landing page using media queries and flexible layout techniques.
-3. **Interactive Image Gallery**: Build an interactive image gallery with HTML, CSS, and JavaScript to showcase your favorite photos.
-4. **Animated Navigation Menu**: Explore CSS animations and transitions by creating a dynamic navigation menu.
-5. **Form Validation**: Implement form validation using JavaScript to enhance user experience and data integrity.
-6. **Simple Calculator**: Practice JavaScript functions and event handling by creating a basic calculator application.
-7. **Weather App**: Integrate with a weather API to create a simple web application that displays current weather conditions.
-8. **CSS Grid Layout**: Experiment with CSS Grid layout to create a visually appealing webpage.
-  
+1. **On-Click Login Form**: Practice basic HTML structure and CSS styling while implementing functionality with JavaScript.
+
 _(Feel free to add more projects to the list as you continue to develop and expand this repository.)_
 
 ## How to Use
