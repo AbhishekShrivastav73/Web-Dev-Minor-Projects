@@ -32,7 +32,7 @@ This repository serves as a resource for web developers, whether you're a beginn
 ## Project List
 
 1. **On-Click Login Form** : Practice basic HTML structure and CSS styling while implementing functionality with JavaScript.
-2. **Accordian** 
+2. **Accordion**  : Accordions are useful when you want to toggle between hiding and showing large amount of content:
 
 _(Feel free to add more projects to the list as you continue to develop and expand this repository.)_
 
