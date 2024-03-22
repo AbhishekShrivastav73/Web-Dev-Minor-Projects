@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Side Navigation</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+</head>
+<body>
+    <div class="overlay">
+
+        <div class="sideBar">
+            <div>
+                <i id="close" class="ri-close-large-line"></i>
+            </div>
+            <ul>
+                <li>Home</li>
+                <li>About Us</li>
+                <li>Contact</li>
+                <li>Login</li>
+            </ul>
+        </div>
+    </div>
+    <main>
+        <h1>Home</h1>
+        <button onclick="showNav()">Nav</button>
+        <button onclick="offcanvas()">Sidenav Push (off canvas )</button>
+        <button onclick="opacity()">Sidenav Push w/Opacity </button>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
