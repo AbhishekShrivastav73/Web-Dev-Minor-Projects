@@ -5,13 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modal Box</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
 </head>
 <body>
     <main>
         <div class="model">
-            
+            <div class="header">
+                <h2>Modal Header</h2>
+                <i onclick="closeModal()" id="close" class="ri-close-large-line"></i>  
+            </div>
+            <div class="content">
+                <h4>Hello World !</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, velit.</p>
+                <button>Explore</button>
+            </div>
+            <div class="footer">
+                <h6>Model Footer</h6>
+            </div>
         </div>
-        <button>Open Model</button>
+        <button onclick="openModal()">Open Model</button>
     </main>
+    <script>
+        let modal = document.querySelector('.model');
+        let btn = document.querySelector('button');
+        function closeModal() {
+            modal.style.marginTop = '-50%';
+        }
+        function openModal(){
+            modal.style.marginTop = '0%';
+        }
+    </script>
 </body>
 </html>
