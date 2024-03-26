@@ -38,8 +38,8 @@ This repository serves as a resource for web developers, whether you're a beginn
 =======
 2. **Accordion**  : Accordions are useful when you want to toggle between hiding and showing large amount of content:
 
->>>>>>> d43db68bef2840240c56fd8d67ead77752604c68
-_(Feel free to add more projects to the list as you continue to develop and expand this repository.)_
+
+(Feel free to add more projects to the list as you continue to develop and expand this repository.)
 
 ## How to Use
 
