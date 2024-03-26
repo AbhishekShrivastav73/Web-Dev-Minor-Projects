@@ -1,0 +1,41 @@
+/* CSS Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Global Styles */
+body,html {
+  font-family: 'Arial', sans-serif;
+  height : 100%;
+  width: 100%;
+}
+
+/* Add your own styles below this line */
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2vw;
+    gap: 1.5vw;
+}
+.btnBox button{
+    padding: 1vw;
+    background-color: transparent;
+    border: 1px solid black ;
+    font-size: 1.5vw;
+}
+.imgContainer{
+   columns:5;
+   break-inside: avoid;
+    gap: 2vw;
+    /* padding: 2vw; */
+    /* overflow: hidden; */
+}
+.imgContainer img{
+    width: 100%;
+    margin-bottom: 2vw;
+}
