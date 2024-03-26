@@ -22,20 +22,31 @@ main{
     padding: 2vw;
     gap: 1.5vw;
 }
+main h1{
+    text-transform: uppercase;
+    font-weight: 800;
+}
 .btnBox button{
-    padding: 1vw;
+    padding: 1vw 1.5vw;
     background-color: transparent;
     border: 1px solid black ;
     font-size: 1.5vw;
+    font-weight: 700;
+    transition: all 0.5s ease;
+    border-radius: 10px;
+
+}
+.btnBox button:hover{
+    background: rgb(3, 224, 3);
+    color: white;
 }
 .imgContainer{
-   columns:5;
+   columns:1;
    break-inside: avoid;
-    gap: 2vw;
-    /* padding: 2vw; */
-    /* overflow: hidden; */
+    gap: 1.5vw;
 }
 .imgContainer img{
     width: 100%;
-    margin-bottom: 2vw;
+    margin-bottom: 1.5vw;
+    border-radius: 15px;
 }
