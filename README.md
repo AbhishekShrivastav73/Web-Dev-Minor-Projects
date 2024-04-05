@@ -37,9 +37,9 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 3. **A Hoverable Dropdown** :a dropdown menu that appears when the user moves the mouse over an element.
 
-4. ** Modal box **:
+4. **Modal box**:
 
-
+5. **Image Grid**
 
 (Feel free to add more projects to the list as you continue to develop and expand this repository.)
 
