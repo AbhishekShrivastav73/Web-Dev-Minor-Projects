@@ -32,7 +32,7 @@ This repository serves as a resource for web developers, whether you're a beginn
 ## Project List
 
 1. **On-Click Login Form** : Practice basic HTML structure and CSS styling while implementing functionality with JavaScript.
-2. **Accordian** 
+
 3. A Hoverable Dropdown :a dropdown menu that appears when the user moves the mouse over an element.
 2. **Accordion**  : Accordions are useful when you want to toggle between hiding and showing large amount of content:
 
