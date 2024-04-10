@@ -41,6 +41,12 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 5. **Image Grid**
 
+6. **Login Form**:
+
+7. **Side Navigation**:
+
+8. ** Progress Bar**:
+
 (Feel free to add more projects to the list as you continue to develop and expand this repository.)
 
 ## How to Use
