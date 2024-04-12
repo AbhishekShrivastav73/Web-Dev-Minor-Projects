@@ -41,11 +41,16 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 5. **Image Grid**
 
-6. **Login Form**:
 
-7. **Side Navigation**:
+6. **Side Navigation**:
 
-8. ** Progress Bar**:
+7. ** Progress Bar**:
+
+8. ** Vertical Tabs ** 
+ 
+9. ** filter Div Element ** 
+
+10. ** Search Menu ** 
 
 (Feel free to add more projects to the list as you continue to develop and expand this repository.)
 
