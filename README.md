@@ -52,6 +52,8 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 10. ** Search Menu ** 
 
+11. ** Alerts ** 
+
 (Feel free to add more projects to the list as you continue to develop and expand this repository.)
 
 ## How to Use
