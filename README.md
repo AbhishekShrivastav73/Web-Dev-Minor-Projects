@@ -44,9 +44,9 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 6. **Side Navigation**:
 
-7. ** Progress Bar**:
+7. **Progress Bar**:
 
-8. ** Vertical Tabs ** 
+8. **Vertical Tabs ** 
  
 9. ** filter Div Element ** 
 
