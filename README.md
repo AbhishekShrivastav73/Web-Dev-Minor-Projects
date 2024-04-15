@@ -46,13 +46,13 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 7. **Progress Bar**:
 
-8. **Vertical Tabs ** 
+8. **Vertical Tabs** 
  
-9. ** filter Div Element ** 
+9. **filter Div Element** 
 
-10. ** Search Menu ** 
+10. **Search Menu** 
 
-11. ** Alerts ** 
+11. **Alerts**
 
 (Feel free to add more projects to the list as you continue to develop and expand this repository.)
 
