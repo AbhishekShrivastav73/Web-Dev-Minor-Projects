@@ -54,6 +54,8 @@ This repository serves as a resource for web developers, whether you're a beginn
 
 11. **Alerts**
 
+12. **Text Animations**
+
 (Feel free to add more projects to the list as you continue to develop and expand this repository.)
 
 ## How to Use
