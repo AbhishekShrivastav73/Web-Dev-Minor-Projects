@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/license/AbhishekShrivastav73/Web-Dev-Minor-Projects?style=flat-square" alt="GitHub license">
 </p>
 
-# 🌟 Web Development Mini-Projects 🌟
+# 🌟 Web Development Mini-Projects. 🌟
 
 Welcome to the Web Development Mini-Projects repository! This repository contains a collection of mini-projects focusing on HTML, CSS, and JavaScript to help you sharpen your skills and explore various aspects of web development.
 
